@@ -1,6 +1,6 @@
 // Copyright (c) 2009-2014 Satoshi Nakamoto
 // Copyright (c) 2009-2014 The Bitcoin developers
-// Copyright (c) 2009-2014 The Litecoin developers
+// Copyright (c) 20011-2014 The Litecoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -32,7 +32,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x0a2e8c8981b7925f2a969fe42f572dd45526f9e8b71f0ce108c45e04248f472e");
+uint256 hashGenesisBlock("0x35fed9f741bb40a88d43ea331532fb468aba1fa24f75976143ed43a1bb29da8a");
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // AIRcoin: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -2757,7 +2757,7 @@ bool InitBlockIndex() {
         //   vMerkleTree: 97ddfbbae6
 
         // Genesis block
-        const char* pszTimestamp = "This is a special starting clue: several puzzles are in the code/wallet - 2/12/14";
+        const char* pszTimestamp = "This is a special starting clue: several puzzles are in the code/wallet - 2/14/14";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -2771,11 +2771,11 @@ bool InitBlockIndex() {
         block.nVersion = 1;
         block.nTime    = 1392306865;
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 2084983146;
+        block.nNonce   = 2086892931;
 
         if (fTestNet)
         {
-            block.nTime    = 1391903165;
+            block.nTime    = 1392306865;
             block.nNonce   = 387275889;
         }
 
@@ -2784,7 +2784,7 @@ bool InitBlockIndex() {
         printf("%s\n", hash.ToString().c_str());
         printf("%s\n", hashGenesisBlock.ToString().c_str());
         printf("%s\n", block.hashMerkleRoot.ToString().c_str());
-        assert(block.hashMerkleRoot == uint256("0xf22c33c9cd77ea7002ec918a817f879c6c22b98f15751b5585428af4cf7dbc63"));
+        assert(block.hashMerkleRoot == uint256("0xcea788e2d4165d41b6a84e82b1d5413952bbd13183dcdf10cea7cba1843b2de8"));
         
 		// If genesis block hash does not match, then generate new genesis hash
         if (false && block.GetHash() != hashGenesisBlock)

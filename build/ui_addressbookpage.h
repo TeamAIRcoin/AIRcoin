@@ -166,11 +166,11 @@ public:
         copyAddress->setText(QApplication::translate("AddressBookPage", "&Copy Address", 0));
         showQRCode->setText(QApplication::translate("AddressBookPage", "Show &QR Code", 0));
 #ifndef QT_NO_TOOLTIP
-        signMessage->setToolTip(QApplication::translate("AddressBookPage", "Sign a message to prove you own a Litecoin address", 0));
+        signMessage->setToolTip(QApplication::translate("AddressBookPage", "Sign a message to prove you own a AIRcoin address", 0));
 #endif // QT_NO_TOOLTIP
         signMessage->setText(QApplication::translate("AddressBookPage", "Sign &Message", 0));
 #ifndef QT_NO_TOOLTIP
-        verifyMessage->setToolTip(QApplication::translate("AddressBookPage", "Verify a message to ensure it was signed with a specified Litecoin address", 0));
+        verifyMessage->setToolTip(QApplication::translate("AddressBookPage", "Verify a message to ensure it was signed with an specified AIRcoin address", 0));
 #endif // QT_NO_TOOLTIP
         verifyMessage->setText(QApplication::translate("AddressBookPage", "&Verify Message", 0));
 #ifndef QT_NO_TOOLTIP

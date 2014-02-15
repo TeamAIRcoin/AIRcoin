@@ -91,7 +91,7 @@ public:
         copyrightLabel->setObjectName(QStringLiteral("copyrightLabel"));
         copyrightLabel->setCursor(QCursor(Qt::IBeamCursor));
         copyrightLabel->setText(QLatin1String("Copyright &copy; 2009-YYYY The Bitcoin developers\n"
-"Copyright &copy; 2011-YYYY The Litecoin developers"));
+"Copyright &copy; 2011-YYYY The AIRcoin developers"));
         copyrightLabel->setTextFormat(Qt::RichText);
         copyrightLabel->setTextInteractionFlags(Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse);
 
@@ -129,8 +129,8 @@ public:
 
     void retranslateUi(QDialog *AboutDialog)
     {
-        AboutDialog->setWindowTitle(QApplication::translate("AboutDialog", "About Litecoin", 0));
-        label->setText(QApplication::translate("AboutDialog", "<b>Litecoin</b> version", 0));
+        AboutDialog->setWindowTitle(QApplication::translate("AboutDialog", "About AIRcoin", 0));
+        label->setText(QApplication::translate("AboutDialog", "<b>AIRcoin</b> version", 0));
         label_2->setText(QApplication::translate("AboutDialog", "\n"
 "This is experimental software.\n"
 "\n"

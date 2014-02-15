@@ -520,7 +520,7 @@ public:
 #endif // QT_NO_TOOLTIP
         clearButton->setText(QApplication::translate("SendCoinsDialog", "Clear &All", 0));
         label->setText(QApplication::translate("SendCoinsDialog", "Balance:", 0));
-        labelBalance->setText(QApplication::translate("SendCoinsDialog", "123.456 LTC", 0));
+        labelBalance->setText(QApplication::translate("SendCoinsDialog", "123.456 AIR", 0));
 #ifndef QT_NO_TOOLTIP
         sendButton->setToolTip(QApplication::translate("SendCoinsDialog", "Confirm the send action", 0));
 #endif // QT_NO_TOOLTIP

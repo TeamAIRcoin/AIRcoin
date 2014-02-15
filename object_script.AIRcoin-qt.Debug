@@ -69,7 +69,7 @@ INPUT(
 ./build\leveldb.o
 ./build\txdb.o
 ./build\splashscreen.o
-./build\litecoin-qt_plugin_import.o
+./build\aircoin-qt_plugin_import.o
 ./build\qrc_bitcoin.o
 ./build\moc_bitcoingui.o
 ./build\moc_transactiontablemodel.o

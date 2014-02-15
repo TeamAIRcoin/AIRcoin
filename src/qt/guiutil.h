@@ -25,7 +25,7 @@ namespace GUIUtil
     QString dateTimeStr(qint64 nTime);
 
     // Render AIRcoin addresses in monospace font
-    QFont AIRcoinAddressFont();
+    QFont bitcoinAddressFont();
 
     // Set up widgets for address and amounts
     void setupAddressWidget(QLineEdit *widget, QWidget *parent);

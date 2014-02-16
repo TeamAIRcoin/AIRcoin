@@ -1,9 +1,0 @@
-###
-### Using 'mingw' toolset.
-###
-
-C:\litecoin-master-0.8\libs\boost_1_54_0\tools\build\v2\engine>if exist bootstrap rd /S /Q bootstrap 
-
-C:\litecoin-master-0.8\libs\boost_1_54_0\tools\build\v2\engine>md bootstrap 
-
-C:\litecoin-master-0.8\libs\boost_1_54_0\tools\build\v2\engine>gcc -DNT -o bootstrap\jam0.exe  command.c compile.c constants.c debug.c execcmd.c execnt.c filent.c frames.c function.c glob.c hash.c hdrmacro.c headers.c jam.c jambase.c jamgram.c lists.c make.c make1.c object.c option.c output.c parse.c pathnt.c pathsys.c regexp.c rules.c scan.c search.c subst.c timestamp.c variable.c modules.c strings.c filesys.c builtins.c md5.c class.c cwd.c w32_getreg.c native.c modules/set.c modules/path.c modules/regex.c modules/property-set.c modules/sequence.c modules/order.c 

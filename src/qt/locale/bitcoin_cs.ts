@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Litecoin</source>
-        <translation>O Litecoinu</translation>
+        <source>About AIRcoin</source>
+        <translation>O AIRcoinu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; verze</translation>
+        <source>&lt;b&gt;AIRcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;AIRcoin&lt;/b&gt; verze</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+0"/>
-        <source>The Litecoin developers</source>
-        <translation>Vývojáři Litecoinu</translation>
+        <source>The AIRcoin developers</source>
+        <translation>Vývojáři AIRcoinu</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tohle jsou tvé Litecoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
+        <source>These are your AIRcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tohle jsou tvé AIRcoinové adresy pro příjem plateb. Můžeš dát pokaždé každému plátci novou adresu, abys věděl, kdo ti kdy kolik platil.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Litecoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem Litecoinové adresy</translation>
+        <source>Sign a message to prove you own a AIRcoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem AIRcoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Litecoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Litecoinovou adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified AIRcoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou AIRcoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tohle jsou tvé Litecoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
+        <source>These are your AIRcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tohle jsou tvé AIRcoinové adresy pro posílání plateb. Před odesláním mincí si vždy zkontroluj částku a cílovou adresu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Litecoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých litecoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>AIRcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <translation>AIRcoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých litecoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Litecoin</source>
-        <translation>Zobraz informace o Litecoinu</translation>
+        <source>Show information About AIRcoin</source>
+        <translation>Zobraz informace o AIRcoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Pošli mince na Litecoinovou adresu</translation>
+        <source>Send coins to a AIRcoin address</source>
+        <translation>Pošli mince na AIRcoinovou adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Litecoin</source>
-        <translation>Uprav nastavení Litecoinu</translation>
+        <source>Modify configuration options for AIRcoin</source>
+        <translation>Uprav nastavení AIRcoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>AIRcoin</source>
+        <translation>AIRcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Litecoin</source>
-        <translation>O &amp;Litecoinu</translation>
+        <source>&amp;About AIRcoin</source>
+        <translation>O &amp;AIRcoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Podepiš zprávy svými Litecoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
+        <source>Sign messages with your AIRcoin addresses to prove you own them</source>
+        <translation>Podepiš zprávy svými AIRcoinovými adresami, čímž prokážeš, že jsi jejich vlastníkem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými Litecoinovými adresami</translation>
+        <source>Verify messages to ensure they were signed with specified AIRcoin addresses</source>
+        <translation>Ověř zprávy, aby ses ujistil, že byly podepsány danými AIRcoinovými adresami</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="+47"/>
-        <source>Litecoin client</source>
-        <translation>Litecoin klient</translation>
+        <source>AIRcoin client</source>
+        <translation>AIRcoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n aktivní spojení do Litecoinové sítě</numerusform><numerusform>%n aktivní spojení do Litecoinové sítě</numerusform><numerusform>%n aktivních spojení do Litecoinové sítě</numerusform></translation>
+        <source>%n active connection(s) to AIRcoin network</source>
+        <translation><numerusform>%n aktivní spojení do AIRcoinové sítě</numerusform><numerusform>%n aktivní spojení do AIRcoinové sítě</numerusform><numerusform>%n aktivních spojení do AIRcoinové sítě</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresa: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
-        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná Litecoinová adresa nebo poškozené parametry URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid AIRcoin address or malformed URI parameters.</source>
+        <translation>Nepodařilo se analyzovat URI! Důvodem může být neplatná AIRcoinová adresa nebo poškozené parametry URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>Stala se fatální chyba. Litecoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
+        <source>A fatal error occurred. AIRcoin can no longer continue safely and will quit.</source>
+        <translation>Stala se fatální chyba. AIRcoin nemůže bezpečně pokračovat v činnosti, a proto skončí.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Litecoinová adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid AIRcoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná AIRcoinová adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresa: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <source>AIRcoin-Qt</source>
+        <translation>AIRcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Litecoin after logging in to the system.</source>
-        <translation>Automaticky spustí Litecoin po přihlášení do systému.</translation>
+        <source>Automatically start AIRcoin after logging in to the system.</source>
+        <translation>Automaticky spustí AIRcoin po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Litecoin on system login</source>
-        <translation>S&amp;pustit Litecoin po přihlášení do systému</translation>
+        <source>&amp;Start AIRcoin on system login</source>
+        <translation>S&amp;pustit AIRcoin po přihlášení do systému</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,7 +844,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the AIRcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automaticky otevře potřebný port na routeru. Tohle funguje jen za předpokladu, že tvůj router podporuje UPnP a že je UPnP povolené.</translation>
     </message>
     <message>
@@ -854,8 +854,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Litecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připojí se do Litecoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
+        <source>Connect to the AIRcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Připojí se do AIRcoinové sítě přes SOCKS proxy (např. když se připojuje přes Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
-        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování Litecoinu.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AIRcoin.</source>
+        <translation>Tady lze nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartování AIRcoinu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,7 +944,7 @@ Adresa: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Litecoin addresses in the transaction list or not.</source>
+        <source>Whether to show AIRcoin addresses in the transaction list or not.</source>
         <translation>Zda ukazovat litecoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
@@ -996,8 +996,8 @@ Adresa: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Litecoin.</source>
-        <translation>Nastavení se projeví až po restartování Litecoinu.</translation>
+        <source>This setting will take effect after restarting AIRcoin.</source>
+        <translation>Nastavení se projeví až po restartování AIRcoinu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adresa: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s Litecoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AIRcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace nemusí být aktuální. Tvá peněženka se automaticky sesynchronizuje s AIRcoinovou sítí, jakmile se s ní spojí. Zatím ale ještě není synchronizace dokončena.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1219,8 +1219,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
-        <translation>Seznam parametrů Litecoinu pro příkazovou řádku získáš v nápovědě Litecoinu Qt.</translation>
+        <source>Show the AIRcoin-Qt help message to get a list with possible AIRcoin command-line options.</source>
+        <translation>Seznam parametrů AIRcoinu pro příkazovou řádku získáš v nápovědě AIRcoinu Qt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adresa: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Litecoin - Debug window</source>
-        <translation>Litecoin - ladicí okno</translation>
+        <source>AIRcoin - Debug window</source>
+        <translation>AIRcoin - ladicí okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Litecoin Core</source>
-        <translation>Jádro Litecoinu</translation>
+        <source>AIRcoin Core</source>
+        <translation>Jádro AIRcoinu</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Litecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři soubor s ladicími záznamy Litecoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
+        <source>Open the AIRcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři soubor s ladicími záznamy AIRcoinu z aktuálního datového adresáře. U velkých logů to může pár vteřin zabrat.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Litecoin RPC console.</source>
-        <translation>Vítej v Litecoinové RPC konzoli.</translation>
+        <source>Welcome to the AIRcoin RPC console.</source>
+        <translation>Vítej v AIRcoinové RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1407,8 +1407,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa příjemce (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to (e.g. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</source>
+        <translation>Adresa příjemce (např. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1448,8 +1448,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej Litecoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a AIRcoin address (e.g. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</source>
+        <translation>Zadej AIRcoinovou adresu (např. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</translation>
     </message>
 </context>
 <context>
@@ -1471,8 +1471,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa, kterou se zpráva podepíše (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</source>
+        <translation>Adresa, kterou se zpráva podepíše (např. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1513,8 +1513,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této Litecoinové adresy</translation>
+        <source>Sign the message to prove you own this AIRcoin address</source>
+        <translation>Podepiš zprávu, čímž prokážeš, že jsi vlastníkem této AIRcoinové adresy</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1544,13 +1544,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa, kterou je zpráva podepsána (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</source>
+        <translation>Adresa, kterou je zpráva podepsána (např. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Litecoinovou adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified AIRcoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou AIRcoinovou adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adresa: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Zadej Litecoinovou adresu (např. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a AIRcoin address (e.g. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</source>
+        <translation>Zadej AIRcoinovou adresu (např. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adresa: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Litecoin signature</source>
-        <translation>Vlož Litecoinový podpis</translation>
+        <source>Enter AIRcoin signature</source>
+        <translation>Vlož AIRcoinový podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adresa: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Litecoin developers</source>
-        <translation>Vývojáři Litecoinu</translation>
+        <source>The AIRcoin developers</source>
+        <translation>Vývojáři AIRcoinu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adresa: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Litecoin version</source>
-        <translation>Verze Litecoinu</translation>
+        <source>AIRcoin version</source>
+        <translation>Verze AIRcoinu</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2306,7 +2306,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;AIRcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
@@ -2317,7 +2317,7 @@ rpcpassword=%s
 rpcuser a rpcpassword NESMÍ být stejné.
 Pokud konfigurační soubor ještě neexistuje, vytvoř ho tak, aby ho mohl číst pouze vlastník.
 Je také doporučeno si nastavit alertnotify, abys byl upozorněn na případné problémy;
-například: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
+například: alertnotify=echo %%s | mail -s &quot;AIRcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2332,8 +2332,8 @@ například: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Litecoin is probably already running.</source>
-        <translation>Nedaří se mi získat zámek na datový adresář %s. Litecoin pravděpodobně už jednou běží.</translation>
+        <source>Cannot obtain a lock on data directory %s. AIRcoin is probably already running.</source>
+        <translation>Nedaří se mi získat zámek na datový adresář %s. AIRcoin pravděpodobně už jednou běží.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ například: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litecoin will not work properly.</source>
-        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, Litecoin nebude fungovat správně.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AIRcoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj, že máš v počítači správně nastavený datum a čas! Pokud jsou nastaveny špatně, AIRcoin nebude fungovat správně.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ například: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
-        <translation>Možnosti SSL: (viz instrukce nastavení SSL v Litecoin Wiki)</translation>
+        <source>SSL options: (see the AIRcoin Wiki for SSL setup instructions)</source>
+        <translation>Možnosti SSL: (viz instrukce nastavení SSL v AIRcoin Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ například: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
-        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi Litecoinu</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AIRcoin</source>
+        <translation>Chyba při načítání wallet.dat: peněženka vyžaduje novější verzi AIRcoinu</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
-        <translation>Soubor s peněženkou potřeboval přepsat: restartuj Litecoin, aby se operace dokončila</translation>
+        <source>Wallet needed to be rewritten: restart AIRcoin to complete</source>
+        <translation>Soubor s peněženkou potřeboval přepsat: restartuj AIRcoin, aby se operace dokončila</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ například: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Litecoin is probably already running.</source>
-        <translation>Nedaří se mi připojit na %s na tomhle počítači. Litecoin už pravděpodobně jednou běží.</translation>
+        <source>Unable to bind to %s on this computer. AIRcoin is probably already running.</source>
+        <translation>Nedaří se mi připojit na %s na tomhle počítači. AIRcoin už pravděpodobně jednou běží.</translation>
     </message>
     <message>
         <location line="+64"/>

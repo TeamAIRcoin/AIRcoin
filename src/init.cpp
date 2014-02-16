@@ -624,8 +624,8 @@ bool AppInit2(boost::thread_group& threadGroup)
     {
         if (!ParseMoney(mapArgs["-paytxfee"], nTransactionFee))
             return InitError(strprintf(_("Invalid amount for -paytxfee=<amount>: '%s'"), mapArgs["-paytxfee"].c_str()));
-        if (nTransactionFee > 0.25 * COIN)
-            InitWarning(_("Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction."));
+        if (nTransactionFee > 0.125 * COIN)
+            InitWarning(_("Warning: The -paytxfee is pricey! This is the transaction fee you will pay if you send a transaction."));
     }
 
     if (mapArgs.count("-mininput"))
@@ -676,7 +676,7 @@ bool AppInit2(boost::thread_group& threadGroup)
     // ********************************************************* Step 5: verify wallet database integrity
 
     if (!fDisableWallet) {
-        uiInterface.InitMessage(_("Verifying wallet..."));
+        uiInterface.InitMessage(_("Verifying wallet functionality..."));
 
         if (!bitdb.Open(GetDataDir()))
         {
@@ -717,7 +717,7 @@ bool AppInit2(boost::thread_group& threadGroup)
                 InitWarning(msg);
             }
             if (r == CDBEnv::RECOVER_FAIL)
-                return InitError(_("wallet.dat corrupt, salvage failed"));
+                return InitError(_("wallet.dat corrupt, salvage failed.  AIA sends its condolences."));
         }
     } // (!fDisableWallet)
 
@@ -892,7 +892,7 @@ bool AppInit2(boost::thread_group& threadGroup)
                 // If the loaded chain has a wrong genesis, bail out immediately
                 // (we're likely using a testnet datadir, or the other way around).
                 if (!mapBlockIndex.empty() && pindexGenesisBlock == NULL)
-                    return InitError(_("Incorrect or no genesis block found. Wrong datadir for network?"));
+                    return InitError(_("Incorrect or no genesis block found. Wrong datadir for network?  Try removing your config file, then re-run and re-reinsert."));
 
                 // Initialize the block index (no-op if non-empty database was already loaded)
                 if (!InitBlockIndex()) {
@@ -924,7 +924,7 @@ bool AppInit2(boost::thread_group& threadGroup)
             // first suggest a reindex
             if (!fReset) {
                 bool fRet = uiInterface.ThreadSafeMessageBox(
-                    strLoadError + ".\n\n" + _("Do you want to rebuild the block database now?"),
+                    strLoadError + ".\n\n" + _("Do you want to rebuild the block database now? You probably do."),
                     "", CClientUIInterface::MSG_ERROR | CClientUIInterface::BTN_ABORT);
                 if (fRet) {
                     fReindex = true;

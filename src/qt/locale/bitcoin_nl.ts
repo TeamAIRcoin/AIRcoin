@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Litecoin</source>
-        <translation>Over Litecoin</translation>
+        <source>About AIRcoin</source>
+        <translation>Over AIRcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Litecoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;AIRcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;AIRcoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+0"/>
-        <source>The Litecoin developers</source>
-        <translation>De Litecoin-ontwikkelaars</translation>
+        <source>The AIRcoin developers</source>
+        <translation>De AIRcoin-ontwikkelaars</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn uw Litecoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
+        <source>These are your AIRcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn uw AIRcoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Litecoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Litecoinadres bezit</translation>
+        <source>Sign a message to prove you own a AIRcoin address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald AIRcoinadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Litecoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Litecoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify a message to ensure it was signed with a specified AIRcoin address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde AIRcoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Litecoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw litecoins verzendt.</translation>
+        <source>These are your AIRcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw AIRcoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw litecoins verzendt.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-56"/>
-        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Litecoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw litecoins stelen.</translation>
+        <source>AIRcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <translation>AIRcoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw litecoins stelen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Litecoin</source>
-        <translation>Laat informatie zien over Litecoin</translation>
+        <source>Show information About AIRcoin</source>
+        <translation>Laat informatie zien over AIRcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Verstuur munten naar een Litecoinadres</translation>
+        <source>Send coins to a AIRcoin address</source>
+        <translation>Verstuur munten naar een AIRcoinadres</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Litecoin</source>
-        <translation>Wijzig instellingen van Litecoin</translation>
+        <source>Modify configuration options for AIRcoin</source>
+        <translation>Wijzig instellingen van AIRcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>AIRcoin</source>
+        <translation>AIRcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Litecoin</source>
-        <translation>&amp;Over Litecoin</translation>
+        <source>&amp;About AIRcoin</source>
+        <translation>&amp;Over AIRcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw Litecoinadressen om te bewijzen dat u deze adressen bezit</translation>
+        <source>Sign messages with your AIRcoin addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw AIRcoinadressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Litecoinadressen</translation>
+        <source>Verify messages to ensure they were signed with specified AIRcoin addresses</source>
+        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde AIRcoinadressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+47"/>
-        <source>Litecoin client</source>
-        <translation>Litecoin client</translation>
+        <source>AIRcoin client</source>
+        <translation>AIRcoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Litecoin network</source>
-        <translation><numerusform>%n actieve connectie naar Litecoinnetwerk</numerusform><numerusform>%n actieve connecties naar Litecoinnetwerk</numerusform></translation>
+        <source>%n active connection(s) to AIRcoin network</source>
+        <translation><numerusform>%n actieve connectie naar AIRcoinnetwerk</numerusform><numerusform>%n actieve connecties naar AIRcoinnetwerk</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -607,7 +607,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het Litecoinnetwerk. Wilt u de transactiekosten betalen?</translation>
+        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het AIRcoinnetwerk. Wilt u de transactiekosten betalen?</translation>
     </message>
     <message>
         <location line="-140"/>
@@ -656,8 +656,8 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
-        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig Litecoinadres of misvormde URI-parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid AIRcoin address or malformed URI parameters.</source>
+        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig AIRcoinadres of misvormde URI-parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
-        <translation>Er is een fatale fout opgetreden. Litecoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
+        <source>A fatal error occurred. AIRcoin can no longer continue safely and will quit.</source>
+        <translation>Er is een fatale fout opgetreden. AIRcoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
-        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig Litecoinadres</translation>
+        <source>The entered address &quot;%1&quot; is not a valid AIRcoin address.</source>
+        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig AIRcoinadres</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Litecoin-Qt</source>
-        <translation>Litecoin-Qt</translation>
+        <source>AIRcoin-Qt</source>
+        <translation>AIRcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Litecoin after logging in to the system.</source>
-        <translation>Start Litecoin automatisch na inloggen in het systeem</translation>
+        <source>Automatically start AIRcoin after logging in to the system.</source>
+        <translation>Start AIRcoin automatisch na inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Litecoin on system login</source>
-        <translation>Start &amp;Litecoin bij het inloggen in het systeem</translation>
+        <source>&amp;Start AIRcoin on system login</source>
+        <translation>Start &amp;AIRcoin bij het inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de Litecoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
+        <source>Automatically open the AIRcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de AIRcoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Litecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbind met het Litecoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
+        <source>Connect to the AIRcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbind met het AIRcoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
-        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat Litecoin herstart wordt.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting AIRcoin.</source>
+        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat AIRcoin herstart wordt.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adres: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Litecoin addresses in the transaction list or not.</source>
-        <translation>Of Litecoinadressen getoond worden in de transactielijst</translation>
+        <source>Whether to show AIRcoin addresses in the transaction list or not.</source>
+        <translation>Of AIRcoinadressen getoond worden in de transactielijst</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Litecoin.</source>
-        <translation>Deze instelling zal pas van kracht worden na het herstarten van Litecoin.</translation>
+        <source>This setting will take effect after restarting AIRcoin.</source>
+        <translation>Deze instelling zal pas van kracht worden na het herstarten van AIRcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het Litecoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AIRcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het AIRcoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1219,8 +1219,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
-        <translation>Toon het LitecoinQt-hulpbericht voor een lijst met mogelijke Litecoin commandoregel-opties.</translation>
+        <source>Show the AIRcoin-Qt help message to get a list with possible AIRcoin command-line options.</source>
+        <translation>Toon het AIRcoinQt-hulpbericht voor een lijst met mogelijke AIRcoin commandoregel-opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Litecoin - Debug window</source>
-        <translation>Litecoin-debugscherm</translation>
+        <source>AIRcoin - Debug window</source>
+        <translation>AIRcoin-debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Kern</translation>
+        <source>AIRcoin Core</source>
+        <translation>AIRcoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Litecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Litecoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
+        <source>Open the AIRcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het AIRcoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Litecoin RPC console.</source>
-        <translation>Welkom bij de Litecoin RPC-console.</translation>
+        <source>Welcome to the AIRcoin RPC console.</source>
+        <translation>Welkom bij de AIRcoin RPC-console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1407,8 +1407,8 @@ Adres: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres waaraan u wilt betalen  (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to (e.g. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</source>
+        <translation>Het adres waaraan u wilt betalen  (bijv. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1448,8 +1448,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vul een Litecoinadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a AIRcoin address (e.g. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</source>
+        <translation>Vul een AIRcoinadres in (bijv. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</translation>
     </message>
 </context>
 <context>
@@ -1471,8 +1471,8 @@ Adres: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres om het bericht mee te ondertekenen (Vb.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2).</translation>
+        <source>The address to sign the message with (e.g. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</source>
+        <translation>Het adres om het bericht mee te ondertekenen (Vb.: A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam).</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1513,8 +1513,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Litecoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald Litecoinadres bezit</translation>
+        <source>Sign the message to prove you own this AIRcoin address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald AIRcoinadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1544,13 +1544,13 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres waarmee bet bericht was ondertekend (Vb.: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2).</translation>
+        <source>The address the message was signed with (e.g. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</source>
+        <translation>Het adres waarmee bet bericht was ondertekend (Vb.: A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam).</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde Litecoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify the message to ensure it was signed with the specified AIRcoin address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde AIRcoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vul een Litecoinadres in (bijv. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a AIRcoin address (e.g. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</source>
+        <translation>Vul een AIRcoinadres in (bijv. A5r4oNAEfwY9BMGXcFP2Po1NpRUEiK8kam)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Litecoin signature</source>
-        <translation>Voer Litecoin-handtekening in</translation>
+        <source>Enter AIRcoin signature</source>
+        <translation>Voer AIRcoin-handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Litecoin developers</source>
-        <translation>De Litecoin-ontwikkelaars</translation>
+        <source>The AIRcoin developers</source>
+        <translation>De AIRcoin-ontwikkelaars</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,8 +2187,8 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Litecoin version</source>
-        <translation>Litecoinversie</translation>
+        <source>AIRcoin version</source>
+        <translation>AIRcoinversie</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2308,7 +2308,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;AIRcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een RPC-wachtwoord instellen in het configuratiebestand: %s
 U wordt aangeraden het volgende willekeurige wachtwoord te gebruiken:
@@ -2318,7 +2318,7 @@ rpcpassword=%s
 De gebruikersnaam en wachtwoord mogen niet hetzelfde zijn.
 Als het bestand niet bestaat, make hem dan aan met leesrechten voor enkel de eigenaar.
 Het is ook aan te bevelen &quot;alertnotify&quot; in te stellen zodat u op de hoogte gesteld wordt van problemen;
-for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com</translation>
+for example: alertnotify=echo %%s | mail -s &quot;AIRcoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2332,8 +2332,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Litecoin is probably already running.</source>
-        <translation>Kan geen lock op de datamap %s verkrijgen. Litecoin draait vermoedelijk reeds.</translation>
+        <source>Cannot obtain a lock on data directory %s. AIRcoin is probably already running.</source>
+        <translation>Kan geen lock op de datamap %s verkrijgen. AIRcoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litecoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal Litecoin niet correct werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AIRcoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal AIRcoin niet correct werken.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-opties: (zie de Litecoin wiki voor SSL-instructies)</translation>
+        <source>SSL options: (see the AIRcoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-opties: (zie de AIRcoin wiki voor SSL-instructies)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
-        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van Litecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of AIRcoin</source>
+        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van AIRcoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
-        <translation>Portemonnee moest herschreven worden: Herstart Litecoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart AIRcoin to complete</source>
+        <translation>Portemonnee moest herschreven worden: Herstart AIRcoin om te voltooien</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Litecoin is probably already running.</source>
-        <translation>Niet in staat om aan %s te binden op deze computer. Litecoin draait vermoedelijk reeds.</translation>
+        <source>Unable to bind to %s on this computer. AIRcoin is probably already running.</source>
+        <translation>Niet in staat om aan %s te binden op deze computer. AIRcoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+64"/>

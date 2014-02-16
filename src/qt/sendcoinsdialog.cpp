@@ -32,7 +32,7 @@ SendCoinsDialog::SendCoinsDialog(QWidget *parent) :
 #endif
 #if QT_VERSION >= 0x040700
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)"));
+    ui->lineEditCoinControlChange->setPlaceholderText(tr("Enter an AIRcoin address (e.g. A4X4HjAEWw9cBm2XCfP2Po2prvEiK8km)"));
 #endif
 
     addEntry();
@@ -182,12 +182,12 @@ void SendCoinsDialog::on_sendButton_clicked()
         break;
     case WalletModel::InvalidAmount:
         QMessageBox::warning(this, tr("Send Coins"),
-            tr("The amount to pay must be larger than 0."),
+            tr("The amount to pay must >0. For Logistics."),
             QMessageBox::Ok, QMessageBox::Ok);
         break;
     case WalletModel::AmountExceedsBalance:
         QMessageBox::warning(this, tr("Send Coins"),
-            tr("The amount exceeds your balance."),
+            tr("The amount exceeds your balance.  Time to get AIR?."),
             QMessageBox::Ok, QMessageBox::Ok);
         break;
     case WalletModel::AmountWithFeeExceedsBalance:

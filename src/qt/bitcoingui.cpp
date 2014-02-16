@@ -69,7 +69,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent) :
     prevBlocks(0)
 {
     restoreWindowGeometry();
-    setWindowTitle(tr("AIRcoin") + " - " + tr("Welcome") + tr("to") + tr("the") + tr("Allied") + tr("Investors'") + tr(Alliance));
+    setWindowTitle(tr("AIRcoin") + " - " + tr("Welcome") + " " + tr("to") + " " + tr("the") + " " + tr("Allied") + " " + tr("Investors'") + " " + tr("Alliance"));
 #ifndef Q_OS_MAC
     QApplication::setWindowIcon(QIcon(":icons/bitcoin"));
     setWindowIcon(QIcon(":icons/bitcoin"));
@@ -705,7 +705,7 @@ void BitcoinGUI::askFee(qint64 nFeeRequired, bool *payFee)
 {
     QString strMessage = tr("This transaction is over the size limit. You can still send it for a fee of %1, "
         "which goes to the AIR nodes that process your transaction and helps to support the network. "
-        "Do you want to invest this gratuity fee?").arg(BitcoinUnits::formatWithUnit(BitcoinUnits::BTC, nFeeRequired));
+        "Do you want to make this investment?").arg(BitcoinUnits::formatWithUnit(BitcoinUnits::BTC, nFeeRequired));
     QMessageBox::StandardButton retval = QMessageBox::question(
           this, tr("Confirm transaction fee"), strMessage,
           QMessageBox::Yes|QMessageBox::Cancel, QMessageBox::Yes);

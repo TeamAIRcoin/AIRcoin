@@ -243,8 +243,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
-        <translation>Varovanie: Ak zašifrujete peňaženku a stratíte heslo, &lt;b&gt;STRATÍTE VŠETKY VAŠE LITECOINY&lt;/b&gt;!⏎</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AIRcoinS&lt;/b&gt;!</source>
+        <translation>Varovanie: Ak zašifrujete peňaženku a stratíte heslo, &lt;b&gt;STRATÍTE VŠETKY VAŠE AIRcoinY&lt;/b&gt;!⏎</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>AIRcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>AIRcoin sa teraz ukončí pre dokončenie procesu šifrovania. Pamätaj že šifrovanie peňaženky Ťa nemôže úplne ochrániť pred kráďežou litecoinov pomocou škodlivého software.</translation>
+        <source>AIRcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your AIRcoins from being stolen by malware infecting your computer.</source>
+        <translation>AIRcoin sa teraz ukončí pre dokončenie procesu šifrovania. Pamätaj že šifrovanie peňaženky Ťa nemôže úplne ochrániť pred kráďežou AIRcoinov pomocou škodlivého software.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -415,7 +415,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-347"/>
         <source>Send coins to a AIRcoin address</source>
-        <translation>Poslať litecoins na adresu</translation>
+        <translation>Poslať AIRcoins na adresu</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -732,7 +732,7 @@ Adresa: %4</translation>
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid AIRcoin address.</source>
-        <translation>Vložená adresa &quot;%1&quot; nieje platnou adresou litecoin.</translation>
+        <translation>Vložená adresa &quot;%1&quot; nieje platnou adresou AIRcoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1063,7 +1063,7 @@ Adresa: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start AIRcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1334,7 +1334,7 @@ Adresa: %4</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Potvrdiť odoslanie litecoins</translation>
+        <translation>Potvrdiť odoslanie AIRcoins</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2191,8 +2191,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or litecoind</source>
-        <translation>Odoslať príkaz -server alebo litecoind</translation>
+        <source>Send command to -server or AIRcoind</source>
+        <translation>Odoslať príkaz -server alebo AIRcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2211,13 +2211,13 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Určiť súbor s nastaveniami (predvolené: litecoin.conf)</translation>
+        <source>Specify configuration file (default: AIRcoin.conf)</source>
+        <translation>Určiť súbor s nastaveniami (predvolené: AIRcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>Určiť súbor pid (predvolené: litecoind.pid)</translation>
+        <source>Specify pid file (default: AIRcoind.pid)</source>
+        <translation>Určiť súbor pid (predvolené: AIRcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2294,7 +2294,7 @@ Adresa: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=litecoinrpc
+rpcuser=AIRcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.

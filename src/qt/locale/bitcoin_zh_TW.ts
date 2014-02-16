@@ -248,7 +248,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LITECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AIRcoinS&lt;/b&gt;!</source>
         <translation>警告: 如果將錢包加密後忘記密碼, 你會&lt;b&gt;失去其中所有的莱特幣&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -275,7 +275,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>AIRcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>AIRcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your AIRcoins from being stolen by malware infecting your computer.</source>
         <translation>莱特幣現在要關閉以完成加密程序. 請記住, 加密錢包無法完全防止入侵電腦的惡意程式偷取你的莱特幣.</translation>
     </message>
     <message>
@@ -1069,8 +1069,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>無法啟動 litecoin 隨按隨付處理器</translation>
+        <source>Cannot start AIRcoin: click-to-pay handler</source>
+        <translation>無法啟動 AIRcoin 隨按隨付處理器</translation>
     </message>
 </context>
 <context>
@@ -2197,8 +2197,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or litecoind</source>
-        <translation>送指令給 -server 或 litecoind
+        <source>Send command to -server or AIRcoind</source>
+        <translation>送指令給 -server 或 AIRcoind
 </translation>
     </message>
     <message>
@@ -2221,14 +2221,14 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>指定設定檔 (預設: litecoin.conf)
+        <source>Specify configuration file (default: AIRcoin.conf)</source>
+        <translation>指定設定檔 (預設: AIRcoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>指定行程識別碼檔案 (預設: litecoind.pid)
+        <source>Specify pid file (default: AIRcoind.pid)</source>
+        <translation>指定行程識別碼檔案 (預設: AIRcoind.pid)
 </translation>
     </message>
     <message>
@@ -2309,7 +2309,7 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=litecoinrpc
+rpcuser=AIRcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2320,7 +2320,7 @@ for example: alertnotify=echo %%s | mail -s &quot;AIRcoin Alert&quot; admin@foo.
         <translation>%s, 你必須要在以下設定檔中設定 RPC 密碼(rpcpassword):
 %s
 建議你使用以下隨機產生的密碼:
-rpcuser=litecoinrpc
+rpcuser=AIRcoinrpc
 rpcpassword=%s
 (你不用記住這個密碼)
 使用者名稱(rpcuser)和密碼(rpcpassword)不可以相同!

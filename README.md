@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 AIRcoin integration/staging tree
 ================================
 
@@ -86,5 +86,5 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 AIRcoin
 =======
 
-The code repository for AIRCoin.
->>>>>>> 2c63ba5653eb9d7ed46c8a009cd63df7e1e06f3c
+The code repository for AIRCoin: 
+https://github.com/Allied-Investors-Association/AIRcoin.git

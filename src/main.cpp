@@ -922,7 +922,7 @@ int CMerkleTx::GetBlocksToMaturity() const
 {
     if (!IsCoinBase())
         return 0;
-    return max(0, (COINBASE_MATURITY+0) - GetDepthInMainChain());
+    return max(0, (COINBASE_MATURITY+17) - GetDepthInMainChain());
 }
 
 
@@ -1261,8 +1261,8 @@ unsigned int static GetNextWorkRequired( const CBlockIndex* pindexLast, const CB
 {
     assert( pindexLast );
 
-    // Kimoto's Gravity Well applies only to block 9008 and onward
-    if( pindexLast->nHeight  < 9008 )
+    // Kimoto's Gravity Well applies only to block 9108 and onward
+    if( pindexLast->nHeight  < 9108 )
         return GetNextWorkRequired_old( pindexLast, pblock );
     else
         return GetNextWorkRequired_grav( pindexLast, pblock );

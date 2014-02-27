@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 AIRcoin integration/staging tree
 ================================
@@ -88,3 +89,9 @@ AIRcoin
 
 The code repository for AIRCoin: 
 https://github.com/Allied-Investors-Association/AIRcoin.git
+=======
+AIRcoin
+=======
+
+AIRcoin Repository
+>>>>>>> 52ed487a663d125ff26062d568c34bb3a3a8d17c

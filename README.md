@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 AIRcoin integration/staging tree
 ================================
 
@@ -18,7 +16,7 @@ Coins are denoted by the ticker AIR or /A.
   
 - The Allied Investor's Reserve (AIR) A 0.25%, 2,500,000/A pre-mine:  
        1. Principly, a pool to allow distribution of the coin without necessitating mining, as well as set a stable exchange rate. 
-       2. Is maintained as a major investment pool managed by the Allied-Investors'-Alliance (AIA)with trained, dedicated Forex, Stock market, and current crypto-currency traders. A public disclosing of total profits made by trading to the public by the AIA will be made at the end of every week. 
+       2. Is maintained as a major investment pool managed by the Allied-Investors'-Alliance (AIA) with trained, dedicated Forex, Stock market, and current crypto-currency traders. A public disclosing of total profits made by trading to the public by the AIA will be made at the end of every week. 
        3. Growth of this pool is returned to the market to raise the exchange rate proportionally.
        4. Additional uses: Advertising, Payment to contract merchants, payment for bounties, etc. 
 
@@ -88,7 +86,7 @@ AIRcoin
 =======
 
 The code repository for AIRCoin: 
-https://github.com/Allied-Investors-Association/AIRcoin.git
+https://github.com/Allied-Investors-Association/AIRcoin
 =======
 AIRcoin
 =======
